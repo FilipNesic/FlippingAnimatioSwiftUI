@@ -5,7 +5,6 @@
 # Getting started
 
 Clone this repository.
-Via the CLI, go to the root folder of the project where Podfile is located and run pod install.
 Open the project file and you are ready to go.
 
 # Screenshoots

@@ -2,6 +2,12 @@
 
 <img width="771" alt="Screenshot 2023-05-11 at 15 50 47" src="https://github.com/FilipNesic/FlippingAnimatioSwiftUI/assets/110664188/736cd537-1527-4623-a222-63fd5685439a">
 
+One of the key features of SwiftUI is its built-in support for animations. SwiftUI animations allow you to add fluid, dynamic motion to your user interfaces, enhancing the overall user experience.
+
+With SwiftUI, you can create animations using a declarative syntax, which means you describe the animation you want, and SwiftUI takes care of the implementation details. Animations can be applied to a wide range of properties, including position, scale, opacity, and rotation.
+
+SwiftUI animations offer a variety of animation styles, such as linear, ease-in, ease-out, and spring. You can also create custom animations and combine multiple animations together. Overall, SwiftUI animations provide a powerful and easy-to-use toolset for creating engaging and interactive user interfaces.
+
 # Getting started
 
 Clone this repository.

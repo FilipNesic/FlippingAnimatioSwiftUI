@@ -9,6 +9,5 @@ Via the CLI, go to the root folder of the project where Podfile is located and r
 Open the project file and you are ready to go.
 
 # Screenshoots
-![Simulator Screen Recording - iPhone 14 Pro - 2023-05-12 at 11 27 02](https://github.com/FilipNesic/FlippingAnimatioSwiftUI/assets/110664188/e369f2f0-4655-451c-accd-93ebc1c6d3bc)
-<img width="370" alt="Screenshot 2023-05-12 at 11 23 11" src="https://github.com/FilipNesic/FlippingAnimatioSwiftUI/assets/110664188/bf11a302-0acd-450c-9cff-02136f23f7f9">
-<img width="384" alt="Screenshot 2023-05-12 at 11 22 55" src="https://github.com/FilipNesic/FlippingAnimatioSwiftUI/assets/110664188/4edad019-6f0c-4e1a-8cb9-28c06666e46c">
+<img width="370" alt="Screenshot 2023-05-12 at 11 23 11" src="https://github.com/FilipNesic/FlippingAnimatioSwiftUI/assets/110664188/ec5ec8d2-5d45-4a94-b259-dba9c02d3013">
+<img width="384" alt="Screenshot 2023-05-12 at 11 22 55" src="https://github.com/FilipNesic/FlippingAnimatioSwiftUI/assets/110664188/d04448d7-284d-46ae-aac8-1b9bd38d9b46">

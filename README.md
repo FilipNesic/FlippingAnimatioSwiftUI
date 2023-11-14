@@ -19,3 +19,5 @@ Open the project file and you are ready to go.
 
 
 ![Simulator Screen Recording - iPhone 14 Pro - 2023-05-12 at 11 27 02](https://github.com/FilipNesic/FlippingAnimatioSwiftUI/assets/110664188/8073a511-c023-44b9-b8b0-b960eaefc871)
+
+https://youtu.be/PidikS56kAc?si=x-nZKAKmyYKDwSUs

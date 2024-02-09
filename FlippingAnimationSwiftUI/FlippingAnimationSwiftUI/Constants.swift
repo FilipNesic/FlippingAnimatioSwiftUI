@@ -9,5 +9,5 @@ import Foundation
 
 struct Constants {
     static let head = "Head"
-    static let tail = ""
+    static let tail = "Tail"
 }

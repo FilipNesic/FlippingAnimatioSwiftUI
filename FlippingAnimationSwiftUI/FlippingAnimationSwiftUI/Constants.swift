@@ -8,6 +8,6 @@
 import Foundation
 
 struct Constants {
-    static let head = ""
+    static let head = "Head"
     static let tail = ""
 }

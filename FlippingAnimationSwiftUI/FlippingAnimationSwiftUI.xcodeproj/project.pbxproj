@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DC70F5172B761B620075F4A7 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC70F5162B761B620075F4A7 /* Constants.swift */; };
 		DC88275D2A0CFE1D00F4A380 /* FlippingAnimationSwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC88275C2A0CFE1D00F4A380 /* FlippingAnimationSwiftUIApp.swift */; };
 		DC88275F2A0CFE1D00F4A380 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC88275E2A0CFE1D00F4A380 /* ContentView.swift */; };
 		DC8827612A0CFE1F00F4A380 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DC8827602A0CFE1F00F4A380 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DC70F5162B761B620075F4A7 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		DC8827592A0CFE1D00F4A380 /* FlippingAnimationSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FlippingAnimationSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DC88275C2A0CFE1D00F4A380 /* FlippingAnimationSwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlippingAnimationSwiftUIApp.swift; sourceTree = "<group>"; };
 		DC88275E2A0CFE1D00F4A380 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				DC88275C2A0CFE1D00F4A380 /* FlippingAnimationSwiftUIApp.swift */,
 				DC88275E2A0CFE1D00F4A380 /* ContentView.swift */,
+				DC70F5162B761B620075F4A7 /* Constants.swift */,
 				DC8827602A0CFE1F00F4A380 /* Assets.xcassets */,
 				DC8827622A0CFE1F00F4A380 /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				DC88275F2A0CFE1D00F4A380 /* ContentView.swift in Sources */,
 				DC88275D2A0CFE1D00F4A380 /* FlippingAnimationSwiftUIApp.swift in Sources */,
+				DC70F5172B761B620075F4A7 /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -8,7 +8,7 @@ import SwiftUI
 
 struct ContentView: View {
     @State var flipCoin: Bool = false
-    private var coinImage = ["Head", "Tail"]
+    private var coinImage = [Constants.head, "Tail"]
     
     var body: some View {
         VStack {

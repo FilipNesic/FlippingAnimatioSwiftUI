@@ -26,7 +26,7 @@ struct ContentView: View {
         }
     }
     
-    private var coin: some View { 
+    private var coin: some View {
         Image(coinImage.randomElement()!)
             .resizable()
             .frame(width: 250, height: 250)
